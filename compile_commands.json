@@ -1,0 +1,92 @@
+[
+ {
+  "directory": "/home/user/Documents/Programming/CProjects/SomeGame",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-pedantic",
+   "-std=c11",
+   "-Iinclude",
+   "-O2",
+   "-g",
+   "-c",
+   "src/camera.c",
+   "-o",
+   "obj/camera.o"
+  ],
+  "file": "src/camera.c"
+ },
+ {
+  "directory": "/home/user/Documents/Programming/CProjects/SomeGame",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-pedantic",
+   "-std=c11",
+   "-Iinclude",
+   "-O2",
+   "-g",
+   "-c",
+   "src/main.c",
+   "-o",
+   "obj/main.o"
+  ],
+  "file": "src/main.c"
+ },
+ {
+  "directory": "/home/user/Documents/Programming/CProjects/SomeGame",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-pedantic",
+   "-std=c11",
+   "-Iinclude",
+   "-O2",
+   "-g",
+   "-c",
+   "src/player.c",
+   "-o",
+   "obj/player.o"
+  ],
+  "file": "src/player.c"
+ },
+ {
+  "directory": "/home/user/Documents/Programming/CProjects/SomeGame",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-pedantic",
+   "-std=c11",
+   "-Iinclude",
+   "-O2",
+   "-g",
+   "-c",
+   "src/renderer.c",
+   "-o",
+   "obj/renderer.o"
+  ],
+  "file": "src/renderer.c"
+ },
+ {
+  "directory": "/home/user/Documents/Programming/CProjects/SomeGame",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-pedantic",
+   "-std=c11",
+   "-Iinclude",
+   "-O2",
+   "-g",
+   "-c",
+   "src/tile.c",
+   "-o",
+   "obj/tile.o"
+  ],
+  "file": "src/tile.c"
+ }
+]
